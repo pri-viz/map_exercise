@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <title>US Population</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-default">
+        <div class="container">
+            <h1>US Population</h1>  
+            <h3>Click on each State in the map to look at population by Gender</h3>    
+        </div>
+    </nav>
+
+    <!-- Bootstrap grid setup -->
+    <div class="container">
+        <div class="row">
+           <div class="col-md-12"> 
+            <div id="left-charts" align="left" class="col-md-9 col-sm-12">
+                <div id="map-area"></div>
+            </div>
+            <div id="right-charts" class="col-md-3 col-sm-12">
+                 <div id="barchart-area"></div>                    
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- External JS libraries -->
+<script src="js/d3.min.js"></script>
+<script src="js/crossfilter.min.js"></script>
+<!-- Custom JS -->
+<script src="js/barchart.js"></script>
+<script src="js/main.js"></script>
+<!-- Tooltip JS -->
+<script src="js/tooltip.js"></script>
+</body>
+</html>
+

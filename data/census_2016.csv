@@ -1,0 +1,103 @@
+State,State_short,Gender,Population
+Alabama,AL,M,2341800
+Alabama,AL,F,2492300
+Alaska,AK,M,360500
+Alaska,AK,F,350400
+Arizona,AZ,F,3503300
+Arizona,AZ,M,3386900
+Arkansas,AR,F,1509700
+Arkansas,AR,M,1435600
+California,CA,F,19729200
+California,CA,M,19459100
+Colorado,CO,F,2758600
+Colorado,CO,M,2750600
+Connecticut,CT,F,1810800
+Connecticut,CT,M,1759500
+Delaware,DE,F,489600
+Delaware,DE,M,458600
+District of Columbia,DC,F,359100
+District of Columbia,DC,M,326700
+Florida,FL,F,10592900
+Florida,FL,M,9952400
+Georgia,GA,F,5295100
+Georgia,GA,M,4985700
+Hawaii,HI,F,704600
+Hawaii,HI,M,687900
+Idaho,ID,F,842700
+Idaho,ID,M,836400
+Illinois,IL,F,6435000
+Illinois,IL,M,6172500
+Indiana,IN,F,3335800
+Indiana,IN,M,3167400
+Iowa,IA,F,1561600
+Iowa,IA,M,1544600
+Kansas,KS,F,1442900
+Kansas,KS,M,1422100
+Kentucky,KY,F,2233800
+Kentucky,KY,M,2154400
+Louisiana,LS,F,2375100
+Louisiana,LS,M,2203400
+Maine,ME,F,673200
+Maine,ME,M,648400
+Maryland,MD,F,3083300
+Maryland,MD,M,2849500
+Massachusetts,MA,F,3485200
+Massachusetts,MA,M,3294300
+Michigan,MI,F,5014000
+Michigan,MI,M,4879300
+Minnesota,MN,F,2757300
+Minnesota,MN,M,2679300
+Mississippi,MS,F,1528800
+Mississippi,MS,M,1419300
+Missouri,MO,F,3069000
+Missouri,MO,M,2819700
+Montana,MT,F,516300
+Montana,MT,M,519200
+Nebraska,NE,F,950300
+Nebraska,NE,M,925800
+Nevada,NV,F,1479600
+Nevada,NV,M,1463600
+New Hampshire,NH,F,667600
+New Hampshire,NH,M,650500
+New Jersey,NJ,F,4547000
+New Jersey,NJ,M,4304500
+New Mexico,NM,F,1041600
+New Mexico,NM,M,1003300
+New York,NY,F,10081000
+New York,NY,M,9401400
+North Carolina,NC,F,5204900
+North Carolina,NC,M,4863400
+North Dakota,ND,F,364600
+North Dakota,ND,M,384900
+Ohio,OH,F,5864100
+Ohio,OH,M,5604700
+Oklahoma,OK,F,1964700
+Oklahoma,OK,M,1956400
+Oregon,OR,F,2075700
+Oregon,OR,M,2054500
+Pennsylvania,PA,F,6455600
+Pennsylvania,PA,M,6102300
+Rhode Island,RI,F,536600
+Rhode Island,RI,M,517700
+South Carolina,SC,F,2549600
+South Carolina,SC,M,2358800
+South Dakota,SD,F,424700
+South Dakota,SD,M,430700
+Tennessee,TN,F,3399900
+Tennessee,TN,M,3274200
+Texas,TX,F,14050700
+Texas,TX,M,13626500
+Utah,UT,F,1527200
+Utah,UT,M,1552500
+Vermont,VT,F,312700
+Vermont,VT,M,309800
+Virginia,VA,F,4243900
+Virginia,VA,M,3931100
+Washington,WA,F,3657900
+Washington,WA,M,3639400
+West Virginia,VW,F,913000
+West Virginia,VW,M,901200
+Wisconsin,WI,F,2887900
+Wisconsin,WI,M,2878200
+Wyoming,WY,F,283100
+Wyoming,WY,M,288600
